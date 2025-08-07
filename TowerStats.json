@@ -1933,7 +1933,7 @@
         ]
     },
     "War Machine Foxy": {
-        "Type": "Continuous",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
         "PlacePrice": 4000,
