@@ -3217,7 +3217,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 500,
                 "Damage": 600,
                 "Burn": 150,
                 "BurnTime": 1.5,
@@ -3225,7 +3225,7 @@
             },
             {
                 "Price": 9000,
-                "Range": 22,
+                "Range": 500,
                 "Damage": 750,
                 "Burn": 187,
                 "BurnTime": 1.5,
@@ -3233,7 +3233,7 @@
             },
             {
                 "Price": 12000,
-                "Range": 24,
+                "Range": 50,
                 "Damage": 900,
                 "Burn": 225,
                 "BurnTime": 1.5,
@@ -3241,7 +3241,7 @@
             },
             {
                 "Price": 15000,
-                "Range": 27,
+                "Range": 500,
                 "Damage": 1050,
                 "Burn": 262,
                 "BurnTime": 1.5,
@@ -3249,7 +3249,7 @@
             },
             {
                 "Price": 20000,
-                "Range": 27,
+                "Range": 500,
                 "Damage": 1200,
                 "Burn": 300,
                 "BurnTime": 1.5,
