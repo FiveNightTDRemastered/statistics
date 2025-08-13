@@ -3221,7 +3221,7 @@
                 "Damage": 600,
                 "Burn": 150,
                 "BurnTime": 1.5,
-                "Cooldown": 1.4
+                "Cooldown": 0
             },
             {
                 "Price": 9000,
@@ -3229,7 +3229,7 @@
                 "Damage": 750,
                 "Burn": 187,
                 "BurnTime": 1.5,
-                "Cooldown": 1.3
+                "Cooldown": 0.00000005
             },
             {
                 "Price": 12000,
@@ -3237,7 +3237,7 @@
                 "Damage": 900,
                 "Burn": 225,
                 "BurnTime": 1.5,
-                "Cooldown": 1.2
+                "Cooldown": 0.00000005
             },
             {
                 "Price": 15000,
@@ -3245,7 +3245,7 @@
                 "Damage": 1050,
                 "Burn": 262,
                 "BurnTime": 1.5,
-                "Cooldown": 1
+                "Cooldown": 0.00000005
             },
             {
                 "Price": 20000,
@@ -3253,7 +3253,7 @@
                 "Damage": 1200,
                 "Burn": 300,
                 "BurnTime": 1.5,
-                "Cooldown": 1
+                "Cooldown": 0.00000005
             }
         ]
     },
