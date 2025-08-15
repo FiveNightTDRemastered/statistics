@@ -1220,7 +1220,7 @@
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2012,26 +2012,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 50,
+                "Range": 20,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
-                "Range": 33,
-                "Damage": 58,
+                "Range": 23,
+                "Damage": 38,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
-                "Range": 36,
-                "Damage": 65,
+                "Range": 26,
+                "Damage": 45,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
-                "Range": 38,
-                "Damage": 75,
+                "Range": 30,
+                "Damage": 55,
                 "Cooldown": 0.05
             }
         ]
@@ -2503,7 +2503,7 @@
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3711,8 +3711,8 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 100,
-                "Burn": 50,
-                "BurnTime": 3,
+                "Burn": 25,
+                "BurnTime": 2,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             },
@@ -3720,8 +3720,8 @@
                 "Price": 25000,
                 "Range": 22,
                 "Damage": 125,
-                "Burn": 50,
-                "BurnTime": 3,
+                "Burn": 25,
+                "BurnTime": 2,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             },
@@ -3729,8 +3729,8 @@
                 "Price": 30000,
                 "Range": 24,
                 "Damage": 150,
-                "Burn": 50,
-                "BurnTime": 3,
+                "Burn": 25,
+                "BurnTime": 2,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             },
@@ -3738,8 +3738,8 @@
                 "Price": 35000,
                 "Range": 25,
                 "Damage": 175,
-                "Burn": 50,
-                "BurnTime": 3,
+                "Burn": 25,
+                "BurnTime": 2,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             } ,
@@ -3747,10 +3747,340 @@
                 "Price": 40000,
                 "Range": 27,
                 "Damage": 200,
-                "Burn": 50,
-                "BurnTime": 3,
+                "Burn": 25,
+                "BurnTime": 2,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
+            }
+        ]
+    },
+    "Purple Guy": {
+        "Type": "Turret Spawner",
+        "Image": "rbxassetid://74846136473322",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 21,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1200,
+                "Range": 23,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1400,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+            }
+        ]
+    },
+    "Master Puppeteer": {
+        "Type": "Continuous Pierce",
+        "Image": "rbxassetid://139994062140962",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 4
+            },
+           {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 3.7
+            },
+           {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 3.4
+            },
+           {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Tuned Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://139180573868562",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 600,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://115627084338568",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 25000,
+                "Range": 18,
+                "Damage": 28,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 34,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 35000,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Spectral Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://130677986382080",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 1750,
+                "Cooldown": 2.7
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 2000,
+                "Cooldown": 2.4
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Agonized SpringTrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://132655301839150",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+    "Limitless Shadow": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://134973909366355",
+        "Rarity": "Nightmare",
+        "PlacePrice": 14500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 4000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 17000,
+                "Range": 17,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 18,
+                "Damage": 6000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 24000,
+                "Range": 20,
+                "Damage": 9999,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Fractured Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://124956379444337",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 120,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 250,
+                "Cooldown": 0.1
             }
         ]
     }
