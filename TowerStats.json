@@ -3755,7 +3755,7 @@
         ]
     },
     "Purple Guy": {
-        "Type": "Turret Spawner",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://74846136473322",
         "Rarity": "Secret",
         "PlacePrice": 600,
