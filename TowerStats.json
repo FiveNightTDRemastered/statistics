@@ -3318,6 +3318,57 @@
             }
         ]
     },
+     "The Creator": {
+        "Type": "Summoner",
+        "Image": "rbxassetid://118625463821484",
+        "Rarity": "Nightmare",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 750,
+                "SummonTime": 7,
+                "Unit": "EndoHelper",
+                "Health": 5000,
+                "Cooldown": 10
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 1000,
+                "SummonTime": 5,
+                "Unit": "EndoHelper",
+                "Health": 10000,
+                "Cooldown": 9
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 2000,
+                "SummonTime": 5,
+                "Unit": "EndoHelper",
+                "Health": 20000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 3000,
+                "SummonTime": 5,
+                "Unit": "EndoHelper",
+                "Health": 30000,
+                "Cooldown": 7
+            }
+        ]
+    },
     "Nightmare Balloon Boy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978330449",
