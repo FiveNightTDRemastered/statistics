@@ -5005,14 +5005,13 @@
     },
 
 "Mendo": {
-        "Type": "Trap Layer",
+        "Type": "Cone Aoe",
         "Image": "rbxassetid://117153987968201",
         "Rarity": "Secret",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Beartrap", "Description": "Spawns Beartraps that last forever until an enemy steps on them (300 max)"},
-        "NoEnemyAttack": true,
+        "Passive": {"Name": "Cone Aoe", "Description": "Does 90 degree aoe"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5023,25 +5022,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 4000,
-                "Cooldown": 4.5
+                "Cooldown": 2
             },
             {
                 "Price": 10000,
                 "Range": 20,
                 "Damage": 5000,
-                "Cooldown": 4.4
+                "Cooldown": 1.8
             },
             {
                 "Price": 12000,
                 "Range": 20,
                 "Damage": 6000,
-                "Cooldown": 4.2
+                "Cooldown": 1.5
             },
             {
                 "Price": 14000,
                 "Range": 20,
                 "Damage": 8000,
-                "Cooldown": 4
+                "Cooldown": 1.35
             }
         ]
     },
