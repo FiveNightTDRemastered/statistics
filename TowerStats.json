@@ -6797,6 +6797,53 @@
             }
         ]
     },
+     "Shadow Chica": {
+        "Type": "Aoe + Slow",
+        "Image": "rbxassetid://96782778301041",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 0.25,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 16,
+                "Damage": 1750,
+                "Cooldown": 0.25,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 17,
+                "Damage": 2350,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 75000,
+                "Range": 18,
+                "Damage": 3500,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Nightguard Afton": {
         "Type": "Cone AOE Slow + Poison",
         "Image": "rbxassetid://105795940597453",
