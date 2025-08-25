@@ -577,6 +577,44 @@
             }
         ]
     },
+    "???": {
+        "Type": "???",
+        "Image": "rbxassetid://87588730213547",
+        "Rarity": "Apex",
+        "PlacePrice": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 200000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 250000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 55,
+                "Damage": 300000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 75,
+                "Damage": 350000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
