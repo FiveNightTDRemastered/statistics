@@ -2070,6 +2070,54 @@
             }
         ]
     },
+    "Decaying Springbonnie": {
+        "Type": "Decay + Slow",
+        "Image": "rbxassetid://18363391561",
+        "Rarity": "Nightmare",
+        "PlacePrice": 800,
+        "Max": 2,
+        "Passive": {"Name": "Decay", "Description": "Decays the enemy and infects them"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 800,
+                "Cooldown": 1,
+                "Poison": 650,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 1777,
+                "Range": 20,
+                "Damage": 950,
+                "Cooldown": 0.7,
+                "Poison": 800,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 3777,
+                "Range": 23,
+                "Damage": 1150,
+                "Cooldown": 0.5,
+                "Poison": 875,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 5777,
+                "Range": 26,
+                "Damage": 1375,
+                "Cooldown": 0.5,
+                "Poison": 1175,
+                "PoisonLength": 3
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
