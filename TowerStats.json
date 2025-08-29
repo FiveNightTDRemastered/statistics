@@ -4986,28 +4986,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.85
+                "RangeBoost": 0.85
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.76
+                "RangeBoost": 0.76
             }
         ]
     },
@@ -5235,28 +5235,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.75
+                "RangeBoost": 0.75
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0,
-                "CooldownBoost": 0.7
+                "RangeBoost": 0.7
             }
         ]
     },
@@ -5682,7 +5682,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.97,
+                "RangeBoost": 0.97,
                 "Slow": 0.8
             },
             {
@@ -5690,7 +5690,7 @@
                 "Range": 22,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.95,
+                "RangeBoost": 0.95,
                 "Slow": 0.8
             },
             {
@@ -5698,7 +5698,7 @@
                 "Range": 24,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.92,
+                "RangeBoost": 0.92,
                 "Slow": 0.8
             },
             {
@@ -5706,7 +5706,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
+                "RangeBoost": 0.9,
                 "Slow": 0.8
             }
         ]
@@ -5772,7 +5772,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
+                "RangeBoost": 0.9,
                 "DamageBoost": 1.1
             },
             {
@@ -5780,7 +5780,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
+                "RangeBoost": 0.85,
                 "DamageBoost": 1.15
             },
             {
@@ -5788,7 +5788,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
+                "RangeBoost": 0.8,
                 "DamageBoost": 1.2
             },
             {
@@ -5796,7 +5796,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
+                "RangeBoost": 0.73,
                 "DamageBoost": 1.27
             }
         ]
