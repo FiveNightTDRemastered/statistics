@@ -2088,7 +2088,7 @@
                 "Price": 0,
                 "Range": 17,
                 "Damage": 800,
-                "Cooldown": 1,
+                "Cooldown": 0.7,
                 "Poison": 650,
                 "PoisonLength": 3
             },
@@ -2096,7 +2096,7 @@
                 "Price": 1777,
                 "Range": 20,
                 "Damage": 950,
-                "Cooldown": 0.7,
+                "Cooldown": 0.6,
                 "Poison": 800,
                 "PoisonLength": 3
             },
@@ -2112,7 +2112,7 @@
                 "Price": 5777,
                 "Range": 26,
                 "Damage": 1375,
-                "Cooldown": 0.5,
+                "Cooldown": 0.3,
                 "Poison": 1175,
                 "PoisonLength": 3
             }
