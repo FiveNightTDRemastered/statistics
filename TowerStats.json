@@ -890,6 +890,45 @@
             }
         ]
     },
+     "Freddy 2.0": {
+        "Type": "Single",
+        "Image": "rbxassetid://133573443798003",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": 0.55,
+        "Max": 8,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 75,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 400,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 225,
+                "Cooldown": 0.3
+            }
+        ]
+    },
     "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
