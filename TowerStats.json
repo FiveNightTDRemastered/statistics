@@ -906,26 +906,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 75,
-                "Cooldown": 0.5
+                "Damage": 150,
+                "Cooldown": 0.2
             },
             {
                 "Price": 400,
                 "Range": 18,
-                "Damage": 100,
-                "Cooldown": 0.4
+                "Damage": 200,
+                "Cooldown": 0.1
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.3
+                "Damage": 250,
+                "Cooldown": 0.1
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 225,
-                "Cooldown": 0.3
+                "Damage": 300,
+                "Cooldown": 0.0.5
             }
         ]
     },
