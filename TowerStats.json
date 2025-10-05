@@ -1896,7 +1896,7 @@
     },
         "Chocolate Bonnie": {
         "Type": "Pierce",
-        "Image": "rbxassetid://18363546528",
+        "Image": "rbxassetid://81169176873097",
         "Rarity": "Secret",
         "PlacePrice": 7500,
         "Max": 2,
@@ -1908,27 +1908,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 17,
-                "Damage": 250,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 3
             },
             {
                 "Price": 13500,
-                "Range": 19,
-                "Damage": 400,
-                "Cooldown": 1
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 2.5
             },
             {
                 "Price": 17350,
-                "Range": 21,
-                "Damage": 500,
-                "Cooldown": 0.75
+                "Range": 25,
+                "Damage": 350,
+                "Cooldown": 2.25
             },
             {
                 "Price": 21055,
-                "Range": 25,
-                "Damage": 550,
-                "Cooldown": 0.5
+                "Range": 27,
+                "Damage": 400,
+                "Cooldown": 2
             }
         ]
     },
