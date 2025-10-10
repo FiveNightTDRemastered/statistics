@@ -501,6 +501,45 @@
             }
         ]
     },
+     "Withered Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://92592907469187",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 200,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12500,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
